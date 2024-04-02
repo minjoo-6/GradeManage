@@ -18,11 +18,11 @@
 ### 🔧 개발 환경
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### DEVELOPMENT
- <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge">
- <img src="https://img.shields.io/badge/Framework-%23121011?style=for-the-badge">![Spring Boot](https://img.shields.io/badge/springboot-%6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)    
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 
   
 ## ❗ 프로그램 구조
-<img width="351" alt="스크린샷 2024-04-02 오전 9 53 37" src="https://github.com/minjoo-6/GradeManage/assets/65073916/79396681-1832-4ac6-8a39-a8005c30010a">
+<img width="351" src="https://github.com/minjoo-6/GradeManage/assets/65073916/79396681-1832-4ac6-8a39-a8005c30010a">
         
