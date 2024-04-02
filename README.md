@@ -23,8 +23,5 @@
 
   
 ## ❗ 프로그램 구조
-1. 
-    
-  <img width="300" alt="image" src="https://github.com/hyeonjikim-kr/firstsnow-project/assets/65073916/193dd8f9-3bbe-41e1-96be-800b4cfff53c">     
-  
+<img width="351" alt="스크린샷 2024-04-02 오전 9 53 37" src="https://github.com/minjoo-6/GradeManage/assets/65073916/79396681-1832-4ac6-8a39-a8005c30010a">
         
